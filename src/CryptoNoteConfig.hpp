@@ -78,7 +78,7 @@ const char CRYPTONOTE_BLOCKS_FILENAME[]       = "blocks.bin";
 const char CRYPTONOTE_BLOCKINDEXES_FILENAME[] = "blockindexes.bin";
 }  // parameters
 
-const char CRYPTONOTE_NAME[] = "bytecoin";
+const char CRYPTONOTE_NAME[] = "pingoin";
 
 const uint8_t CURRENT_TRANSACTION_VERSION = 1;
 
